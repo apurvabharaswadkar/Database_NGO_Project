@@ -10,7 +10,9 @@ Application is developed in Netbeans that access the database in MYSQL.
 Instructions: -Load the project in Netbeans 
 -If there are problems in loading the project, add mysql-connector-java-5.1.35-bin.jar file to resolve the error
 -Run the project
--All tabs will be enabled if you enter correct user-id and Password(the username should be a valid teacher id in the database and default password is mentioned below) 
+-All tabs will be enabled if you enter correct user-id and Password(the username should be a valid teacher id in the database and default password is mentioned below)
+
+
 Username: 2 
 Password: Seva@IHV
 
